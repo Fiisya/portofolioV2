@@ -92,7 +92,7 @@ portfolio/
 
 ## 📸 Screenshots
 
-(Add screenshots of your portfolio website here)
+https://cdn.yupra.my.id/yp/ieynyiie.png
 
 ## 🤝 Contributing
 
